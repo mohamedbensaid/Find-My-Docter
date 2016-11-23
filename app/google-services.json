@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "505846952208",
+    "firebase_url": "https://find-my-docter.firebaseio.com",
+    "project_id": "find-my-docter",
+    "storage_bucket": "find-my-docter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505846952208:android:be850bd69296ad4e",
+        "android_client_info": {
+          "package_name": "com.enis.med.findmydocter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505846952208-ub58gmed45l938r3pje9o7teadqj294j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enis.med.findmydocter",
+            "certificate_hash": "1B8F55102DACB5802E73A1C31F5FF289D2C81F15"
+          }
+        },
+        {
+          "client_id": "505846952208-qv2hvqittjnt36r699ske4tc3jalp9r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHP3-pCNZ-Za2ugP138XRIuFvPKl-WnVs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505846952208-qv2hvqittjnt36r699ske4tc3jalp9r4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505846952208-kk1c9k1ut47497k5ek616j1ar389fabs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.enis.med.findmydocter"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
