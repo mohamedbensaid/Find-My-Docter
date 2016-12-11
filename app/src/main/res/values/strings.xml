@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Find My Docter</string>
+    <string name="app_name">Find My Doctor</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
